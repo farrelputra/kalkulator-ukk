@@ -1,0 +1,10 @@
+E:\UKK\Kalkulator_Farrel\Kalkulator_Farrel\bin\Debug\Kalkulator_Nisrina.exe.config
+E:\UKK\Kalkulator_Farrel\Kalkulator_Farrel\bin\Debug\Kalkulator_Nisrina.exe
+E:\UKK\Kalkulator_Farrel\Kalkulator_Farrel\bin\Debug\Kalkulator_Nisrina.pdb
+E:\UKK\Kalkulator_Farrel\Kalkulator_Farrel\obj\Debug\Kalkulator_Farrel.csprojAssemblyReference.cache
+E:\UKK\Kalkulator_Farrel\Kalkulator_Farrel\obj\Debug\Kalkulator_Nisrina.Form1.resources
+E:\UKK\Kalkulator_Farrel\Kalkulator_Farrel\obj\Debug\Kalkulator_Nisrina.Properties.Resources.resources
+E:\UKK\Kalkulator_Farrel\Kalkulator_Farrel\obj\Debug\Kalkulator_Farrel.csproj.GenerateResource.cache
+E:\UKK\Kalkulator_Farrel\Kalkulator_Farrel\obj\Debug\Kalkulator_Farrel.csproj.CoreCompileInputs.cache
+E:\UKK\Kalkulator_Farrel\Kalkulator_Farrel\obj\Debug\Kalkulator_Nisrina.exe
+E:\UKK\Kalkulator_Farrel\Kalkulator_Farrel\obj\Debug\Kalkulator_Nisrina.pdb
